@@ -5,11 +5,7 @@ DialogFlow Webhook in Eclipse for Java.
 
 The last version of code always can be found at Github repository:
 
-    git clone https://github.com/sanidhya09/dfwebhook.git
-
-change a work directory
-
-    cd apiai-java-sdk/samples/clients/web-client
+    git clone https://github.com/sanidhya09/dialogflowWebHook.git
 
 and run the assembly routine to create a WAR file
 
